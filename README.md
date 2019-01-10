@@ -4,7 +4,7 @@
 
 ### Instalação
 
-Este projeto requer **Python 2.7** e as seguintes bibliotecas Python instaladas:
+Este projeto requer **Python 3.6** e as seguintes bibliotecas Python instaladas:
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org/)
