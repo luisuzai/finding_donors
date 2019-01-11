@@ -1,6 +1,4 @@
-# Nanodegree Engenheiro de Machine Learning
-# Aprendizagem supervisionada
-## Projeto: Encontrando doadores para a CharityML
+## Projeto para o Nanodegree de Engenheiro de Machine Learning da Udacity: Encontrando doadores para a CharityML
 
 ### Instalação
 
