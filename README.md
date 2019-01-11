@@ -13,12 +13,6 @@ Este projeto requer **Python 3.6** e as seguintes bibliotecas Python instaladas:
 
 Você também precisará ter software instalado para rodar e executar um [iPython Notebook](http://ipython.org/notebook.html)
 
-A Udacity recomenda que os alunos instalem o [Anaconda](https://www.continuum.io/downloads), uma distribuição de Python que contém todas as bibliotecas e software necessários para este projeto. 
-
-### Código
-
-Um modelo do código é fornecido no arquivo notebook `finding_donors.ipynb`. Você também precisará usar o arquivo Python `visuals.py` e o arquivo de dados `census.csv` para concluir seu trabalho. Mesmo que parte do código já tenha sido fornecida para ajudá-lo a começar, você precisará implementar funcionalidades adicionais em alguns pontos para conseguir completar o projeto com sucesso. Note que o código incluído em `visuals.py` foi feito para ser utilizado do jeito que está, sem manipulação por parte dos alunos. Mas, se você estiver interessado em saber como as visualizações são criadas no notebook, fique à vontade para explorar esse arquivo Python.
-
 ### Execução
 
 Em um terminal ou janela de comando, navegue até o diretório raiz de projeto `finding_donors/` (que contém este README) e execute os seguintes comandos:
